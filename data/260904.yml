@@ -7,7 +7,7 @@ about:
   head: 20a3052
   archived: false
   latestVersion: 0.1.7
-  collectedAt: 2026-09-04T19:51:38Z
+  collectedAt: 2026-09-04T20:50:42Z
 timeline:
   created: 2024-11-05
   lastCommit: 2026-09-04
@@ -80,5 +80,33 @@ total:
   openIssue: 1
   commit: 139
 ---
+path: /home/runner/.x-repo/github.com/Metaphorme/ezcheck
+collectedAt: 2026-09-04T20:50:42Z
+loc:
+  Rust:
+    code: 1738
+    comments: 8
+    blanks: 235
+    files: 5
+  Toml:
+    code: 26
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 335
+    blanks: 150
+    files: 5
+  Text:
+    code: 0
+    comments: 15
+    blanks: 0
+    files: 3
+total:
+  code: 1980
+  comments: 368
+  blanks: 387
+  files: 14
 ---
 
