@@ -4,13 +4,24 @@
 
 An easy-to-use, lightweight, cross-platform, and high-performance tool for calculating, comparing, and verifying hash of strings and files.
 
-![ezcheck](https://repo.x-cmd.io/ezcheck.svg)
+![ezcheck](https://repo.x-cmd.io/ezcheck.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install ezcheck
 ```
+
+## 代码洞察
+
+合计: **1,764** 行代码（覆盖前 5 种语言、共 **14** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 1,738 | 8 | 235 | 5 |
+| Toml | 26 | 0 | 2 | 1 |
+| Markdown | 0 | 335 | 150 | 5 |
+| Text | 0 | 15 | 0 | 3 |
 
 ## 源代码
 
@@ -23,7 +34,6 @@ x install ezcheck
 - **最新版本**: `0.1.7` (2025-02-23)
 - **最近提交**: 2026-09-04
 - **Release 含资产**: 14 个
-- **发布时间**: 2025-02-23T06:31:45Z
 
 ## 流行度
 
@@ -38,19 +48,30 @@ x install ezcheck
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 8 |
+| last60d | 2026-07-12 | 0 | 0 | 2 | 0 | 0 | 8 |
 | 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 0 | 8 |
+| last180d | 2026-03-14 | 0 | 2 | 3 | 0 | 0 | 15 |
 | 360d | 2025-09-15 | 0 | 7 | 3 | 0 | 0 | 20 |
+| last720d | 2024-09-20 | 7 | 27 | 3 | 2 | 1 | 139 |
 
-## 代码规模
+## Release 资产
 
-合计: **1,764** 行代码（覆盖前 5 种语言、共 **14** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 1,738 | 8 | 235 | 5 |
-| Toml | 26 | 0 | 2 | 1 |
-| Markdown | 0 | 335 | 150 | 5 |
-| Text | 0 | 15 | 0 | 3 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [ezcheck-aarch64-apple-darwin-mix_backend.tar.gz](https://github.com/Metaphorme/ezcheck/releases/download/0.1.7/ezcheck-aarch64-apple-darwin-mix_backend.tar.gz) | 464.5 KiB | `native/darwin/arm64` |
+| [ezcheck-aarch64-pc-windows-msvc-mix_backend.zip](https://github.com/Metaphorme/ezcheck/releases/download/0.1.7/ezcheck-aarch64-pc-windows-msvc-mix_backend.zip) | 348.1 KiB | `native/win/arm64` |
+| [ezcheck-aarch64-unknown-linux-gnu-mix_backend.tar.gz](https://github.com/Metaphorme/ezcheck/releases/download/0.1.7/ezcheck-aarch64-unknown-linux-gnu-mix_backend.tar.gz) | 476.7 KiB | `native/linux/arm64/glibc` |
+| [ezcheck-aarch64-unknown-linux-musl-mix_backend.tar.gz](https://github.com/Metaphorme/ezcheck/releases/download/0.1.7/ezcheck-aarch64-unknown-linux-musl-mix_backend.tar.gz) | 520.7 KiB | `native/linux/arm64/musl` |
+| [ezcheck-i686-pc-windows-gnu-mix_backend.zip](https://github.com/Metaphorme/ezcheck/releases/download/0.1.7/ezcheck-i686-pc-windows-gnu-mix_backend.zip) | 1.1 MiB | `native/win/x64` |
+| [ezcheck-i686-pc-windows-msvc-mix_backend.zip](https://github.com/Metaphorme/ezcheck/releases/download/0.1.7/ezcheck-i686-pc-windows-msvc-mix_backend.zip) | 328.6 KiB | `native/win/x64` |
+| [ezcheck-i686-unknown-linux-gnu-mix_backend.tar.gz](https://github.com/Metaphorme/ezcheck/releases/download/0.1.7/ezcheck-i686-unknown-linux-gnu-mix_backend.tar.gz) | 523.0 KiB | `native/linux/x86/glibc` |
+| [ezcheck-loongarch64-unknown-linux-gnu-mix_backend.tar.gz](https://github.com/Metaphorme/ezcheck/releases/download/0.1.7/ezcheck-loongarch64-unknown-linux-gnu-mix_backend.tar.gz) | 475.8 KiB | `native/unknown` |
+| [ezcheck-loongarch64-unknown-linux-musl-mix_backend.tar.gz](https://github.com/Metaphorme/ezcheck/releases/download/0.1.7/ezcheck-loongarch64-unknown-linux-musl-mix_backend.tar.gz) | 474.4 KiB | `native/unknown` |
+| [ezcheck-x86_64-apple-darwin-mix_backend.tar.gz](https://github.com/Metaphorme/ezcheck/releases/download/0.1.7/ezcheck-x86_64-apple-darwin-mix_backend.tar.gz) | 499.2 KiB | `native/darwin/x64` |
+| [ezcheck-x86_64-pc-windows-gnu-mix_backend.zip](https://github.com/Metaphorme/ezcheck/releases/download/0.1.7/ezcheck-x86_64-pc-windows-gnu-mix_backend.zip) | 1.2 MiB | `native/win/x64` |
+| [ezcheck-x86_64-pc-windows-msvc-mix_backend.zip](https://github.com/Metaphorme/ezcheck/releases/download/0.1.7/ezcheck-x86_64-pc-windows-msvc-mix_backend.zip) | 552.3 KiB | `native/win/x64` |
+| [ezcheck-x86_64-unknown-linux-gnu-mix_backend.tar.gz](https://github.com/Metaphorme/ezcheck/releases/download/0.1.7/ezcheck-x86_64-unknown-linux-gnu-mix_backend.tar.gz) | 493.8 KiB | `native/linux/x64/glibc` |
+| [ezcheck-x86_64-unknown-linux-musl-mix_backend.tar.gz](https://github.com/Metaphorme/ezcheck/releases/download/0.1.7/ezcheck-x86_64-unknown-linux-musl-mix_backend.tar.gz) | 543.6 KiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -61,4 +82,4 @@ ezcheck 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:29:49Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:50:36Z._
