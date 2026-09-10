@@ -7,7 +7,7 @@ about:
   latestVersion: "0.1.7"
   latestRelease: "0.1.7"
   latestPrerelease: "0.1.6"
-  collectedAt: 2026-09-10T17:36:44Z
+  collectedAt: 2026-09-10T23:50:30Z
 timeline:
   created: 2024-11-05
   lastCommit: 2026-09-04
@@ -83,7 +83,7 @@ total:
   commit: 139
 ---
 path: /home/runner/.x-repo/github.com/Metaphorme/ezcheck
-collectedAt: 2026-09-10T17:36:45Z
+collectedAt: 2026-09-10T23:50:32Z
 loc:
   Rust:
     code: 1738
