@@ -47,12 +47,12 @@ Total: **1,764** lines of code across **14** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-08-10 | 0 | 0 | 3 | 0 | 0 | 8 |
-| last180d | 2026-05-12 | 0 | 0 | 3 | 0 | 0 | 8 |
-| 360d | 2025-11-13 | 0 | 5 | 4 | 0 | 0 | 18 |
-| last720d | 2024-11-18 | 4 | 26 | 4 | 1 | 1 | 103 |
+| 30d | 2026-10-10 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-10 | 0 | 0 | 3 | 0 | 0 | 0 |
+| 90d | 2026-08-11 | 0 | 0 | 3 | 0 | 0 | 8 |
+| last180d | 2026-05-13 | 0 | 0 | 3 | 0 | 0 | 8 |
+| 360d | 2025-11-14 | 0 | 5 | 4 | 0 | 0 | 18 |
+| last720d | 2024-11-19 | 4 | 26 | 4 | 1 | 1 | 101 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for ezcheck lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:37:12Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:06:00Z._
